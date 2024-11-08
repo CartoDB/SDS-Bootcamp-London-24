@@ -4,7 +4,7 @@ Welcome to your Spatial Data Science Bootcamps repo! The materials of your cours
 
 ## The Spatial Data Science Handbook
 
-Access your handbook [here](https://docs.google.com/presentation/d/1UOBQrQgJF73__-g1GrlPtaJ7SXf5zUGX_zqO_vdc2os/edit#slide=id.p)! If you can't access this document, try logging out from your company Google organization - some organizations block access to external documents.)
+Access your handbook [here](https://docs.google.com/presentation/d/1UOBQrQgJF73__-g1GrlPtaJ7SXf5zUGX_zqO_vdc2os/edit#slide=id.p)! If you can't access this document, try logging out from your company Google organization - some organizations block access to external documents.
 
 1. **The Modern Geospatial Data Stack**
    - Simon Wrigley, Solutions Engineer at CARTO
