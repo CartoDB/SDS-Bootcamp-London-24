@@ -14,6 +14,6 @@ Access your handbook [here](https://docs.google.com/presentation/d/1UOBQrQgJF73_
    - Helen McKenzie, Geospatial Advocate at CARTO
    - [Slides](https://docs.google.com/presentation/d/1eH18Il8DDblg6Y-sRytFgeSyCczaEQgSCVRjZcz7WNc/edit#slide=id.g287fcd0c4a2_0_5)
 
-3. **An Intro to Geospatial Data Engineering**
+3. **Scalable Spatial Analytics**
    - Ana Manzanares Villarán, Product Manager at CARTO
    - [Slides](https://docs.google.com/presentation/d/1iPtLE6VepZZ8n8lRWtxsXLqV9zIj7LftrAK966eAubY/edit#slide=id.g2fe3cf51d66_0_493)
