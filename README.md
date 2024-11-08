@@ -13,6 +13,7 @@ Access your handbook [here](https://docs.google.com/presentation/d/1UOBQrQgJF73_
 2. **Low-Code Spatial Analytics**
    - Helen McKenzie, Geospatial Advocate at CARTO
    - [Slides](https://docs.google.com/presentation/d/1eH18Il8DDblg6Y-sRytFgeSyCczaEQgSCVRjZcz7WNc/edit#slide=id.g287fcd0c4a2_0_5)
+   - [Worksheet](https://docs.google.com/document/d/1p3SUBeSwiZNiCqsiJjbu14h6oblySYKf-VGoFeRJR3Y/edit?tab=t.0#heading=h.tubhs8si21up)
 
 3. **Scalable Spatial Analytics**
    - Ana Manzanares Villarán, Product Manager at CARTO
