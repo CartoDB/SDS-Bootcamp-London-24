@@ -8,7 +8,7 @@ Access your handbook [here](https://docs.google.com/presentation/d/1UOBQrQgJF73_
 
 1. **The Modern Geospatial Data Stack**
    - Simon Wrigley, Solutions Engineer at CARTO
-   - [Slides](www.pendingtoadd.com)
+   - [Slides](https://docs.google.com/presentation/d/120OxS8TXRhbypMJYL-JdLVlVTiTgH7zxE2ItVtC7kWM/edit#slide=id.g31328478621_0_1449)
   
 2. **Low-Code Spatial Analytics**
    - Helen McKenzie, Geospatial Advocate at CARTO
