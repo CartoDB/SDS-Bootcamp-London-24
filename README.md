@@ -1,4 +1,4 @@
-# Spatial Data Science Bootcamps: London, November 2024
+# Spatial Data Science Bootcamp: London, November 2024
 
 Welcome to your Spatial Data Science Bootcamps repo! The materials of your course can be found here. If you have any issues, please email [marketing@cartodb.com](mailto:marketing@cartodb.com).
 
